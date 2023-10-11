@@ -10,5 +10,6 @@ Un blog incrí­ble para el[ curso de Git y Github](https://platzi.com/cursos/gi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible grupo de shareppy
+* Incluye ejemplos en windows, linus y mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**]
